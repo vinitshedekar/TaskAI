@@ -2,7 +2,7 @@
 
 TaskAI is a modern task management application that combines the power of AI with real-time collaboration features. Built with Next.js for the frontend and Go for the backend, it offers a robust and scalable solution for managing tasks efficiently.
 
-![TaskAI Dashboard](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
+![TaskAI Dashboard](landingpage.png)
 
 ## Features
 
